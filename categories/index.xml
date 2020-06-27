@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hariniwas Yadav</title>
-    <link>http://example.com/categories/</link>
+    <link>https://hariniwasyadav.github.io/hariniwasyadav/categories/</link>
     <description>Recent content in Categories on Hariniwas Yadav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2019 Resto Hugo</copyright>
     
-	<atom:link href="http://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hariniwasyadav.github.io/hariniwasyadav/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
